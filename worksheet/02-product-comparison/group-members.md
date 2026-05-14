@@ -17,20 +17,20 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
-| 1 | A20-XXXXX | [...] | [...] |
-| 2 | A20-XXXXX | [...] | [...] |
+| 1 | 2A202600271 | Phạm Tuấn Anh | NotebookLM — chụp ảnh + phân tích sản phẩm A |
+| 2 | [MÃ HỌC VIÊN] | [HỌ TÊN] | Elicit — chụp ảnh + phân tích sản phẩm B |
 
 ---
 
 ## Nhiệm vụ thử nghiệm chung
 
-[Mô tả 1-2 câu nhiệm vụ chung mà cả 2 thành viên cùng test trên 2 sản phẩm. Ví dụ: "Viết bản tóm tắt 200 từ về tác động của AI lên ngành ed-tech, có dẫn nguồn."]
+**Nhiệm vụ thử nghiệm chung**: "Tôi muốn tìm hiểu về 'Tác động của AI trong y tế (Healthcare AI)'. Hãy phân tích 3 bài báo khoa học gần đây nhất, tổng hợp kết quả chính và đánh giá xem AI đã cải thiện độ chính xác trong chẩn đoán hình ảnh như thế nào."
 
-**Ngành chọn**: [A — Tìm kiếm / B — Lập trình / C — Viết lách / D — Nghiên cứu]
+**Ngành chọn**: D — Nghiên cứu
 
-**Sản phẩm A**: [tên + URL]
+**Sản phẩm A**: NotebookLM (https://notebooklm.google.com)
 
-**Sản phẩm B**: [tên + URL]
+**Sản phẩm B**: Elicit (https://elicit.com)
 
 ---
 
