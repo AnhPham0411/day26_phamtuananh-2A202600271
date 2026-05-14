@@ -18,7 +18,7 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
 | 1 | 2A202600271 | Phạm Tuấn Anh | NotebookLM — chụp ảnh + phân tích sản phẩm A |
-| 2 | [MÃ HỌC VIÊN] | [HỌ TÊN] | Elicit — chụp ảnh + phân tích sản phẩm B |
+| 2 | 2A202600488 | Nguyễn Xuân Hoàng | Elicit — chụp ảnh + phân tích sản phẩm B |
 
 ---
 
@@ -36,8 +36,8 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 ## Phân chia screenshot
 
-- Sản phẩm A → [Mã học viên nào phụ trách chụp]
-- Sản phẩm B → [Mã học viên nào phụ trách chụp]
+- Sản phẩm A (NotebookLM) → 2A202600271 — Phạm Tuấn Anh
+- Sản phẩm B (Elicit) → 2A202600488 — Nguyễn Xuân Hoàng
 
 ---
 
